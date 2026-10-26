@@ -1,0 +1,40 @@
+DHEEPAY LOGO — PRELIMINARY PUBLIC-WEB SIMILARITY REVIEW
+Date: 25 October 2026
+
+Scope
+This is a preliminary public-web search for obvious visual-concept similarities. It is not a legal opinion, a comprehensive reverse-image search, a copyright ownership check, or trademark clearance. Search engines may omit unindexed, private, recently published, or registered marks.
+
+Supplied concept reviewed
+- Teal dual-loop / infinity-style emblem
+- Central vertical stem intended to evoke lowercase d and p
+- Electric sky-blue stem
+- DheePay wordmark
+- Green accent for Lite and gold accent for Enterprise
+
+Relevant public examples found
+1. Scalebranding — “DP Infinity Logo” (published 22 Dec 2023): describes a DP monogram with an infinity-loop style.
+   https://scalebranding.com/product/313944
+2. Branition — “Letter DP Infinity Monogram Logo”: describes a geometric DP monogram formed with an infinity concept.
+   https://branition.com/logos/33223/letter-dp-infinity-monogram-logo
+3. VectorStock — “Infinity D&P Monogram Logo” (uploaded 2019): a vector logo concept combining D/P initials and an infinity motif.
+   https://www.vectorstock.com/royalty-free-vector/infinity-dp-monogram-logo-vector-27208304
+4. LogoGround — “Infinity dp logo” (published 12 Jul 2021): describes a logo combining letters D and P.
+   https://www.logoground.com/logo.php?id=536865
+5. DePay brand page: a separate decentralized-payments brand with a similar-sounding name, but a different published visual identity.
+   https://depay.com/brand
+
+Preliminary assessment
+- The general idea “D + P initials combined with an infinity symbol” is already present in multiple public logo listings. It is a crowded visual concept, so the supplied mark may have limited distinctiveness at the concept level.
+- This search did not establish that the exact supplied artwork copies any one of these examples. Similarity of concept alone does not prove plagiarism or infringement; exact shapes, proportions, arrangement, source files, creation history, licenses and jurisdiction matter.
+- The name “DheePay” should also be checked against “DePay” and phonetic/visual variants in the relevant goods/services classes, because both names can be encountered in a payments-related context. This is a screening flag, not a conclusion that a conflict exists.
+
+Recommended before commercial launch
+1. Search the Indian Trade Marks Registry for DHEEPAY, DHEE PAY, DHEEPAY LITE, DHEEPAY ENTERPRISE and phonetic variants, plus relevant wordmark and device/logo classes.
+2. Ask an IP/trademark professional to perform a clearance search, including figurative/Vienna-code searches and relevant jurisdictions where you plan to sell.
+3. Keep dated source files, design iterations, designer agreements and written assignment/licence terms proving your right to use the final artwork commercially.
+4. Consider differentiating the emblem beyond the common infinity-DP concept before filing: use a more distinctive ledger/invoice geometry, negative-space construction or proprietary shape language, and review it against the identified examples.
+
+Official Indian trademark search starting point:
+https://ipindia.gov.in/trade-marks-before-you-apply-search-existing-trademarks
+Public search portal:
+https://tmrsearch.ipindia.gov.in/tmrpublicsearch/
